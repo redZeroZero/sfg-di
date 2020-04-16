@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: cat,EN
+
+guru:
+  user: mon user
+  password: mon pass
+  url: shdfgh@slfkhsdfh
